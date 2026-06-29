@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srisuhani9651/Node-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srisuhani9651/Node-JS/issues"
+  },
+  "homepage": "https://github.com/srisuhani9651/Node-JS#readme",
+  "dependencies": {
+    "@types/node": "^26.0.1"
+  }
+}
